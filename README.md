@@ -5,6 +5,7 @@
 - 📚 Atualmente aprendendo React
 - 🎮 Hobby GameDev Unity
 - ⚡ Estudo principalmente na plataforma <a href="https://www.devmedia.com.br/perfil/bruno-xavier-de-souza">DevMedia</a>
+- 👀 <a href="https://brunoxavier.vercel.app/">Meu Portfolio</a>
 
 <div>
   <a href="https://github.com/Xavier9407">
